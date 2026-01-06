@@ -82,8 +82,8 @@ export default function Hero() {
 
 const styles = {
   hero: {
-    // minHeight: "100vh",
-    minHeight: "calc(100vh - 90px)",
+    minHeight: "100vh",
+    // minHeight: "calc(100vh - 90px)",
     width: "100%",
     background: `
       linear-gradient(
